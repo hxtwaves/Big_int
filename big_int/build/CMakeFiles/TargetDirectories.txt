@@ -1,0 +1,4 @@
+/home/hotwaves/git_reps/Big_int/big_int/build/CMakeFiles/big_nums.dir
+/home/hotwaves/git_reps/Big_int/big_int/build/CMakeFiles/main.dir
+/home/hotwaves/git_reps/Big_int/big_int/build/CMakeFiles/edit_cache.dir
+/home/hotwaves/git_reps/Big_int/big_int/build/CMakeFiles/rebuild_cache.dir
