@@ -1,2 +1,0 @@
-/usr/bin/ar qc libbig_nums.a CMakeFiles/big_nums.dir/big_int.cpp.o CMakeFiles/big_nums.dir/big_double.cpp.o
-/usr/bin/ranlib libbig_nums.a
